@@ -1,6 +1,6 @@
 # Hi, I'm Nikola Ilievski
 
-I am a dedicated student at SEDC, aspiring to become a proficient full-stack developer. Although this marks the beginning of my career, I'm excited for new challenges and thrilled to see what the future has in store for me.
+I'm a dedicated student at SEDC, aspiring to become a proficient full-stack developer. Although this marks the beginning of my career, I'm excited for new challenges and thrilled to see what the future has in store for me.
 
 ## Want to learn more about me?
 
@@ -33,7 +33,7 @@ I am a dedicated student at SEDC, aspiring to become a proficient full-stack dev
 	<code><a href="https://getbootstrap.com/"><img width="40" src="./icons/Bootstrap.png" alt="Bootstrap" title="Bootstrap"/></a></code>
 	<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="40" src="./icons/JavaScript.png" alt="JavaScript" title="JavaScript"/></a></code>
     <code><a href="https://jquery.com/"><img width="40" src="./icons/jQuery.webp" alt="jQuery" title="jQuery"/></a></code>
-    <code><a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16"><img width="40" src="./icons/SQL.png" alt="T-SQL" title="T-SQL"/></a></code>
+    <code><a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16"><img width="40" src="./icons/T-SQL.png" alt="T-SQL" title="T-SQL"/></a></code>
 	<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" src="./icons/C-Sharp.png" alt="C#" title="C#"/></a></code>
 	<code><a href="https://dotnet.microsoft.com/download/dotnet/6.0"><img width="40" src="./icons/dotNET-Core.png" alt=".NET Core" title=".NET Core"/></a></code>
     <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img width="40" src="./icons/MVC.png" alt="MVC Design Pattern" title="MVC Design Pattern"/></code>
@@ -47,6 +47,8 @@ I am a dedicated student at SEDC, aspiring to become a proficient full-stack dev
     <code><a href="https://visualstudio.microsoft.com/"><img width="40" src="./icons/Visual-Studio.png" alt="Visual Studio" title="Visual Studio"/></a></code>
 </div>
 
-| Github Stats | Top Languages |
+---
+
+| GitHub Stats | Top Languages |
 | --- | --- |
 | ![Your github stats](https://github-readme-stats.vercel.app/api?username=Biohazardx44&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biohazardx44&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&exclude_repo=Homework-SQL) |

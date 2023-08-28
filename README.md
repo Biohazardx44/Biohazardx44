@@ -36,9 +36,9 @@ I'm a dedicated student at SEDC, aspiring to become a proficient full-stack deve
     <code><a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16"><img width="40" src="./icons/T-SQL.png" alt="T-SQL" title="T-SQL"/></a></code>
 	<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" src="./icons/C-Sharp.png" alt="C#" title="C#"/></a></code>
 	<code><a href="https://dotnet.microsoft.com/download/dotnet/6.0"><img width="40" src="./icons/dotNET-Core.png" alt=".NET Core" title=".NET Core"/></a></code>
-    <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img width="40" src="./icons/MVC.png" alt="MVC Design Pattern" title="MVC Design Pattern"/></code>
-	<code><a href="https://learn.microsoft.com/en-us/previous-versions/aspnet/hh833994(v=vs.108)"><img width="40" src="./icons/Web-API.png" alt="Web API" title="Web API"/></code>
-	<code><a href="https://swagger.io/"><img width="40" src="./icons/Swagger.png" alt="Swagger" title="Swagger"/></a></code>
+    <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img width="40" src="./icons/MVC.png" alt="MVC Design Pattern" title="MVC Design Pattern"/></a></code>
+	<code><a href="https://learn.microsoft.com/en-us/previous-versions/aspnet/hh833994(v=vs.108)"><img width="40" src="./icons/Web-API.png" alt="Web API" title="Web API"/></a></code>
+    <code><a href="https://swagger.io/"><img width="40" src="./icons/Swagger.png" alt="Swagger" title="Swagger"/></a></code>
 	<code><a href="https://www.postman.com/"><img width="40" src="./icons/Postman.png" alt="Postman" title="Postman"/></a></code>
 	<code><a href="https://git-scm.com/"><img width="40" src="./icons/Git.png" alt="Git" title="Git"/></a></code>
 	<code><a href="https://github.com/"><img width="40" src="./icons/GitHub.png" alt="GitHub" title="GitHub"/></a></code>

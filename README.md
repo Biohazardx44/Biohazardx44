@@ -13,6 +13,7 @@ I'm a dedicated student at SEDC, aspiring to become a proficient full-stack deve
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=javascript) -->
 <!-- ![jQuery](https://img.shields.io/badge/JQuery-0769AD?&logo=jquery) -->
 <!-- ![SQL](https://img.shields.io/badge/SQL-000?&logo=sql-server) -->
+<!-- ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-000?&logo=sql-server) -->
 <!-- ![C#](https://img.shields.io/badge/C%23-800080?&logo=c-sharp) -->
 <!-- ![.NET Core](https://img.shields.io/badge/.NET%20Core-800080?&logo=.net) -->
 <!-- ![MVC Design Pattern](https://img.shields.io/badge/MVC%20Design%20Pattern-800080?&logo=.net) -->

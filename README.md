@@ -4,8 +4,8 @@ I'm a dedicated student at SEDC, aspiring to become a proficient full-stack deve
 
 ## Want to learn more about me?
 
-[![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-Nikola%20Ilievski-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
-[![Nikola Ilievski's Instagram](https://img.shields.io/badge/-@niko__ilievski-E4405F?style=social&logo=Instagram&logoColor=white&link=https://www.instagram.com/niko_ilievski/)](https://www.instagram.com/niko_ilievski/)
+[![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-Nikola%20Ilievski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
+[![Nikola Ilievski's Instagram](https://img.shields.io/badge/-@niko__ilievski-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/niko_ilievski/)](https://www.instagram.com/niko_ilievski/)
 [![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20website-green)]()
 [![Nikola Ilievski's GitHub Followers](https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social)](https://github.com/Biohazardx44)
 

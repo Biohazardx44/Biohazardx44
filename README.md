@@ -6,8 +6,8 @@ I'm a dedicated student at SEDC, aspiring to become a proficient full-stack deve
 
 [![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-Nikola%20Ilievski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
 [![Nikola Ilievski's Instagram](https://img.shields.io/badge/-@niko__ilievski-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/niko_ilievski/)](https://www.instagram.com/niko_ilievski/)
-[![Website Badge](https://img.shields.io/badge/Portfolio-Access%20website-green)]()
-[![GitHub followers](https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social)](https://github.com/Biohazardx44)
+[![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20website-green)]()
+[![Nikola Ilievski's GitHub Followers](https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social)](https://github.com/Biohazardx44)
 
 ### Technologies I use:
 
@@ -24,7 +24,7 @@ I'm a dedicated student at SEDC, aspiring to become a proficient full-stack deve
     <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img width="40" src="./icons/SQL.png" alt="SQL" title="SQL"/></a></code>
 	<code><a href="https://www.postgresql.org/"><img width="40" src="./icons/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL"/></a></code>
 	<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" src="./icons/C-Sharp.png" alt="C#" title="C#"/></a></code>
-	<code><a href="https://dotnet.microsoft.com/download/dotnet/6.0"><img width="40" src="./icons/NET-Core.png" alt=".NET Core" title=".NET Core"/></a></code>
+	<code><a href="https://dotnet.microsoft.com/en-us/download/dotnet"><img width="40" src="./icons/NET-Core.png" alt=".NET Core" title=".NET Core"/></a></code>
     <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"><img width="40" src="./icons/MVC.png" alt="ASP.NET MVC Design Pattern" title="ASP.NET MVC Design Pattern"/></a></code>
 	<code><a href="https://learn.microsoft.com/en-us/previous-versions/aspnet/hh833994(v=vs.108)"><img width="40" src="./icons/Web-API.png" alt="ASP.NET Web API" title="ASP.NET Web API"/></a></code>
 	<code><a href="https://git-scm.com/"><img width="40" src="./icons/Git.png" alt="Git" title="Git"/></a></code>
@@ -37,7 +37,7 @@ I'm a dedicated student at SEDC, aspiring to become a proficient full-stack deve
 	<code><a href="https://www.microsoft.com/en-us/windows/"><img width="40" src="./icons/Windows.png" alt="Windows" title="Windows"/></a></code>
 	<code><a href="https://code.visualstudio.com/"><img width="40" src="./icons/Visual-Studio-Code.png" alt="Visual Studio Code" title="Visual Studio Code"/></a></code>
     <code><a href="https://visualstudio.microsoft.com/"><img width="40" src="./icons/Visual-Studio.png" alt="Visual Studio" title="Visual Studio"/></a></code>
-	<code><a href="https://nodejs.org/en"><img width="40" src="./icons/NodeJS.jpg" alt="NodeJS" title="NodeJS"/></a></code>
+	<code><a href="https://nodejs.org/en"><img width="40" src="./icons/NodeJS.png" alt="NodeJS" title="NodeJS"/></a></code>
 	<code><a href="https://www.npmjs.com/"><img width="40" src="./icons/npm.png" alt="npm" title="npm"/></a></code>
 	<code><a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16"><img width="40" src="./icons/SSMS.ico" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/></a></code>
 	<code><a href="https://www.pgadmin.org/"><img width="40" src="./icons/pgAdmin_4.png" alt="pgAdmin 4" title="pgAdmin 4"/></a></code>

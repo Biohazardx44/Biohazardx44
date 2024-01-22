@@ -2,49 +2,108 @@
 
 ## Want to learn more about me?
 
-[![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-Nikola%20Ilievski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
-[![Nikola Ilievski's Instagram](https://img.shields.io/badge/-@niko__ilievski-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/niko_ilievski/)](https://www.instagram.com/niko_ilievski/)
-[![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20website-green)](https://nikola-ilievski.netlify.app/)
+I am a passionate full-stack developer crafting user-friendly interfaces and powerful back-end solutions. Committed to constant improvement and dedicated to learning new things, let's shape the future, one line of code at a time!
+
+[![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20Website-9e1919?style=flat&logo=carrd&logoColor=white&link=https://nikola-ilievski.netlify.app/)](https://nikola-ilievski.netlify.app/)
+[![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
+[![Nikola Ilievski's Instagram](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/niko_ilievski/)](https://www.instagram.com/niko_ilievski/)
+[![Nikola Ilievski's Bintern](https://img.shields.io/badge/-Bintern-FA8127?style=flat&logo=bookalope&logoColor=white&link=https://bintern.com/en/student/public/profile/bmlrb2xhaWxpZXZza2k0MjFAZ21haWwuY29t)](https://bintern.com/en/student/public/profile/bmlrb2xhaWxpZXZza2k0MjFAZ21haWwuY29t)
 [![Nikola Ilievski's GitHub Followers](https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social)](https://github.com/Biohazardx44)
 
-### Technologies I use:
+### Languages & Technologies I use:
 
 <div>
-	<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/HTML.svg" alt="HTML" title="HTML"/></a></code>
-	<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/CSS.svg" alt="CSS" title="CSS"/></a></code>
-	<code><a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Sass.png" alt="Sass (SCSS)" title="Sass (SCSS)"/></a></code>
-	<code><a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Bootstrap.png" alt="Bootstrap" title="Bootstrap"/></a></code>
-	<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/></a></code>
-	<code><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/TypeScript.png" alt="TypeScript" title="TypeScript"/></a></code>
-	<code><a href="https://rxjs.dev/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/RxJS.png" alt="RxJS" title="RxJS"/></a></code>
-	<code><a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/NodeJS.png" alt="NodeJS" title="NodeJS"/></a></code>
-    <code><a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/jQuery.webp" alt="jQuery" title="jQuery"/></a></code>
-	<code><a href="https://angular.io/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Angular.png" alt="Angular" title="Angular"/></a></code>
-    <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/SQL.png" alt="SQL" title="SQL"/></a></code>
-	<code><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL"/></a></code>
-	<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/C-Sharp.png" alt="C#" title="C#"/></a></code>
-	<code><a href="https://dotnet.microsoft.com/en-us/download/dotnet" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/NET-Core.png" alt=".NET Core" title=".NET Core"/></a></code>
-    <code><a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/MVC.png" alt="ASP.NET MVC Design Pattern" title="ASP.NET MVC Design Pattern"/></a></code>
-	<code><a href="https://learn.microsoft.com/en-us/previous-versions/aspnet/hh833994(v=vs.108)" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Web-API.png" alt="ASP.NET Web API" title="ASP.NET Web API"/></a></code>
-	<code><a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/npm.svg" alt="npm" title="npm"/></a></code>
-	<code><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Git.png" alt="Git" title="Git"/></a></code>
-	<code><a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/GitHub.svg" alt="GitHub" title="GitHub"/></a></code>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/html.svg" alt="HTML" title="HTML"/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/css.svg" alt="CSS" title="CSS"/>
+	</a>
+	<a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/sass.svg" alt="Sass & SCSS" title="Sass & SCSS"/>
+	</a>
+	<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS"/>
+	</a>
+	<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/javascript.svg" alt="JavaScript" title="JavaScript"/>
+	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"/>
+	</a>
+    <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/jquery.svg" alt="jQuery" title="jQuery"/>
+	</a>
+	<a href="https://rxjs.dev/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/rxjs.svg" alt="RxJS" title="RxJS"/>
+	</a>
+	<a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/nodejs.svg" alt="NodeJS" title="NodeJS"/>
+	</a>
+	<a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/npm.svg" alt="npm" title="npm"/>
+	</a>
+	<a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/angular.svg" alt="Angular" title="Angular"/>
+	</a>
+	<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/react.svg" alt="React & React Native" title="React & React Native"/>
+	</a>
+	<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/tsql.svg" alt="T-SQL" title="T-SQL"/>
+	</a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/>
+	</a>
+	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/csharp.svg" alt="C-Sharp" title="C-Sharp"/>
+	</a>
+	<a href="https://dotnet.microsoft.com/en-us/download/dotnet" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/netcore.svg" alt=".NET Core" title=".NET Core"/>
+	</a>
+	<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/aspnetcore.svg" alt="ASP.NET MVC & Web API" title="ASP.NET MVC & Web API"/>
+	</a>
+	<a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/swagger.svg" alt="Swagger" title="Swagger"/>
+	</a>
+    <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/postman.svg" alt="Postman" title="Postman"/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/git.svg" alt="Git" title="Git"/>
+	</a>
+	<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/github.svg" alt="GitHub" title="GitHub"/>
+	</a>
 </div>
 
 ### Software I use:
 
 <div>
-	<code><a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Windows.png" alt="Windows" title="Windows"/></a></code>
-	<code><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Visual-Studio-Code.svg" alt="Visual Studio Code" title="Visual Studio Code"/></a></code>
-    <code><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Visual-Studio.png" alt="Visual Studio" title="Visual Studio"/></a></code>
-	<code><a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/SSMS.ico" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/></a></code>
-	<code><a href="https://www.pgadmin.org/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/pgAdmin_4.png" alt="pgAdmin 4" title="pgAdmin 4"/></a></code>
-	<code><a href="https://swagger.io/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Swagger.png" alt="Swagger" title="Swagger"/></a></code>
-	<code><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img width="48" src="./icons/Postman.png" alt="Postman" title="Postman"/></a></code>
+	<a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/windows.svg" alt="Windows" title="Windows"/>
+	</a>
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/visualstudiocode.svg" alt="Visual Studio Code" title="Visual Studio Code"/>
+	</a>
+    <a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/visualstudio.svg" alt="Visual Studio" title="Visual Studio"/>
+	</a>
+	<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/ssms.svg" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/>
+	</a>
+	<a href="https://www.pgadmin.org/download/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" src="./icons/pgadmin4.svg" alt="pgAdmin 4" title="pgAdmin 4"/>
+	</a>
 </div>
 
 ---
 
-| GitHub Stats | Top Languages |
-| --- | --- |
-| ![Your github stats](https://github-readme-stats.vercel.app/api?username=Biohazardx44&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biohazardx44&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&exclude_repo=Homework-SQL) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biohazardx44&show_icons=true&title_color=f01818&icon_color=910a0a&text_color=c3c3c3&bg_color=202020&count_private=true" width="55%" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biohazardx44&show_icons=true&title_color=f01818&icon_color=910a0a&text_color=c3c3c3&bg_color=202020&count_private=true&layout=compact&exclude_repo=Homework-SQL" width="42%" alt="languages graph" />
+</div>

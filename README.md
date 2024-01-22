@@ -68,7 +68,7 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 	  <img width="48" height="48" src="./icons/aspnetcore.svg" alt="ASP.NET MVC & Web API" title="ASP.NET MVC & Web API"/>
 	</a>
 	<a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
-	  <img width="48" height="48" src="./icons/swagger.svg" alt="Swagger" title="Swagger"/>
+	  <img width="48" height="48" src="./icons/Swagger.tsx" alt="Swagger" title="Swagger"/>
 	</a>
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/postman.svg" alt="Postman" title="Postman"/>

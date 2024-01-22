@@ -1,12 +1,10 @@
 # Hi, I'm Nikola Ilievski
 
-I'm a dedicated student at SEDC, aspiring to become a proficient full-stack developer. Although this marks the beginning of my career, I'm excited for new challenges and thrilled to see what the future has in store for me.
-
 ## Want to learn more about me?
 
 [![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-Nikola%20Ilievski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
 [![Nikola Ilievski's Instagram](https://img.shields.io/badge/-@niko__ilievski-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/niko_ilievski/)](https://www.instagram.com/niko_ilievski/)
-[![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20website-green)]()
+[![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20website-green)](https://nikola-ilievski.netlify.app/)
 [![Nikola Ilievski's GitHub Followers](https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social)](https://github.com/Biohazardx44)
 
 ### Technologies I use:
@@ -30,7 +28,7 @@ I'm a dedicated student at SEDC, aspiring to become a proficient full-stack deve
 	<code><a href="https://learn.microsoft.com/en-us/previous-versions/aspnet/hh833994(v=vs.108)"><img width="40" src="./icons/Web-API.png" alt="ASP.NET Web API" title="ASP.NET Web API"/></a></code>
 	<code><a href="https://www.npmjs.com/"><img width="40" src="./icons/npm.png" alt="npm" title="npm"/></a></code>
 	<code><a href="https://git-scm.com/"><img width="40" src="./icons/Git.png" alt="Git" title="Git"/></a></code>
-	<code><a href="https://github.com/"><img width="40" src="./icons/GitHub.png" alt="GitHub" title="GitHub"/></a></code>
+	<code><a href="https://github.com/"><img width="40" src="./icons/GitHub.svg" alt="GitHub" title="GitHub"/></a></code>
 </div>
 
 ### Software I use:

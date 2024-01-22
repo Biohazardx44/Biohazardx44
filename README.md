@@ -4,21 +4,11 @@
 
 I am a passionate full-stack developer crafting user-friendly interfaces and powerful back-end solutions. Committed to constant improvement and dedicated to learning new things, let's shape the future, one line of code at a time!
 
-<a href="https://nikola-ilievski.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Access%20Website-9e1919?style=flat&logo=carrd&logoColor=white" alt="Nikola Ilievski's Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/nikola-ilievski7/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Nikola Ilievski's LinkedIn">
-</a>
-<a href="https://www.instagram.com/niko_ilievski/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=flat&logo=Instagram&logoColor=white" alt="Nikola Ilievski's Instagram">
-</a>
-<a href="https://bintern.com/en/student/public/profile/bmlrb2xhaWxpZXZza2k0MjFAZ21haWwuY29t" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Bintern-FA8127?style=flat&logo=bookalope&logoColor=white" alt="Nikola Ilievski's Bintern">
-</a>
-<a href="https://github.com/Biohazardx44" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social" alt="Nikola Ilievski's GitHub Followers">
-</a>
+[![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20Website-9e1919?style=flat&logo=carrd&logoColor=white&link=https://nikola-ilievski.netlify.app/)](https://nikola-ilievski.netlify.app/)
+[![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
+[![Nikola Ilievski's Instagram](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/niko_ilievski/)](https://www.instagram.com/niko_ilievski/)
+[![Nikola Ilievski's Bintern](https://img.shields.io/badge/-Bintern-FA8127?style=flat&logo=bookalope&logoColor=white&link=https://bintern.com/en/student/public/profile/bmlrb2xhaWxpZXZza2k0MjFAZ21haWwuY29t)](https://bintern.com/en/student/public/profile/bmlrb2xhaWxpZXZza2k0MjFAZ21haWwuY29t)
+[![Nikola Ilievski's GitHub Followers](https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social)](https://github.com/Biohazardx44)
 
 ### Languages & Technologies I use:
 

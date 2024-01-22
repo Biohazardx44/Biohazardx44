@@ -12,9 +12,9 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 
 ### Languages & Technologies I use:
 
-<div style="display: flex; gap: 4px;">
+<div>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-	  <img width="48" src="./icons//html.svg" alt="HTML" title="HTML"/>
+	  <img width="48" src="./icons/html.svg" alt="HTML" title="HTML"/>
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
 	  <img width="48" src="./icons/css.svg" alt="CSS" title="CSS"/>
@@ -83,7 +83,7 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 
 ### Software I use:
 
-<div style="display: flex; gap: 4px;">
+<div>
 	<a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noopener noreferrer">
 	  <img width="48" src="./icons/windows.svg" alt="Windows" title="Windows"/>
 	</a>

@@ -2,7 +2,7 @@
 
 ## Want to learn more about me?
 
-I am a passionate full-stack developer crafting user-friendly interfaces and powerful back-end solutions. Committed to constant improvement and dedicated to learning new things, let's shape the future, one line of code at a time!
+I'm a passionate full-stack developer crafting user-friendly interfaces and powerful back-end solutions. Committed to constant improvement and dedicated to learning new things. Let's shape the future, one line of code at a time!
 
 [![Nikola Ilievski's Portfolio](https://img.shields.io/badge/Portfolio-Access%20Website-9e1919?style=flat&logo=carrd&logoColor=white&link=https://nikola-ilievski.netlify.app/)](https://nikola-ilievski.netlify.app/)
 [![Nikola Ilievski's LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikola-ilievski7/)](https://www.linkedin.com/in/nikola-ilievski7/)
@@ -98,7 +98,7 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 	  <img width="48" height="48" src="./icons/ssms.ico" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/></a>
 	  <img width="10" />
 	<a href="https://www.pgadmin.org/download/" target="_blank" rel="noopener noreferrer">
-	  <img width="48" height="48" src="./icons/postgresql.svg" alt="pgAdmin 4" title="pgAdmin 4"/></a>
+	  <img width="48" height="48" src="./icons/pgadmin4.ico" alt="pgAdmin 4" title="pgAdmin 4"/></a>
 </div>
 
 ---

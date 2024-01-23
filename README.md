@@ -53,7 +53,7 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 	  <img width="48" height="48" src="./icons/react.svg" alt="React & React Native" title="React & React Native"/>
 	</a>
 	<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">
-	  <img width="48" height="48" src="./icons/tsql.svg" alt="T-SQL" title="T-SQL"/>
+	  <img width="48" height="48" src="./icons/tsql.ico" alt="T-SQL" title="T-SQL"/>
 	</a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/>
@@ -94,7 +94,7 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 	  <img width="48" height="48" src="./icons/visualstudio.svg" alt="Visual Studio" title="Visual Studio"/>
 	</a>
 	<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">
-	  <img width="48" height="48" src="./icons/ssms.svg" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/>
+	  <img width="48" height="48" src="./icons/ssms.ico" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/>
 	</a>
 	<a href="https://www.pgadmin.org/download/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/pgadmin4.svg" alt="pgAdmin 4" title="pgAdmin 4"/>

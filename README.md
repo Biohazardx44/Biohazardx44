@@ -17,67 +17,67 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 <div>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/html.svg" alt="HTML" title="HTML"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/css.svg" alt="CSS" title="CSS"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/sass.svg" alt="Sass & SCSS" title="Sass & SCSS"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/javascript.svg" alt="JavaScript" title="JavaScript"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
     <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/jquery.svg" alt="jQuery" title="jQuery"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://rxjs.dev/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/rxjs.svg" alt="RxJS" title="RxJS"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/nodejs.svg" alt="NodeJS" title="NodeJS"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/npm.svg" alt="npm" title="npm"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/angular.svg" alt="Angular" title="Angular"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/react.svg" alt="React & React Native" title="React & React Native"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/tsql.ico" alt="T-SQL" title="T-SQL"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
     <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/csharp.svg" alt="C-Sharp" title="C-Sharp"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://dotnet.microsoft.com/en-us/download/dotnet" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/netcore.svg" alt=".NET Core" title=".NET Core"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/aspnetcore.svg" alt="ASP.NET MVC & Web API" title="ASP.NET MVC & Web API"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/swagger.svg" alt="Swagger" title="Swagger"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/postman.svg" alt="Postman" title="Postman"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/git.svg" alt="Git" title="Git"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/github.svg" alt="GitHub" title="GitHub"/></a>
 </div>
@@ -87,16 +87,16 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 <div>
 	<a href="https://www.microsoft.com/en-us/windows/?r=1" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/windows.svg" alt="Windows" title="Windows"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/visualstudiocode.svg" alt="Visual Studio Code" title="Visual Studio Code"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
     <a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/visualstudio.svg" alt="Visual Studio" title="Visual Studio"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/ssms.ico" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/></a>
-	  <img width="5" />
+	  <img width="10" height="53" />
 	<a href="https://www.pgadmin.org/download/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/postgresql.svg" alt="pgAdmin 4" title="pgAdmin 4"/></a>
 </div>

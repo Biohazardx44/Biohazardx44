@@ -97,7 +97,7 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 	  <img width="48" height="48" src="./icons/ssms.ico" alt="SQL Server Management Studio (SSMS)" title="SQL Server Management Studio (SSMS)"/>
 	</a>
 	<a href="https://www.pgadmin.org/download/" target="_blank" rel="noopener noreferrer">
-	  <img width="48" height="48" src="./icons/pgadmin4.svg" alt="pgAdmin 4" title="pgAdmin 4"/>
+	  <img width="48" height="48" src="./icons/postgresql.svg" alt="pgAdmin 4" title="pgAdmin 4"/>
 	</a>
 </div>
 

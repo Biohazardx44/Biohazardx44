@@ -10,6 +10,8 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 [![Nikola Ilievski's Bintern](https://img.shields.io/badge/-Bintern-FA8127?style=flat&logo=bookalope&logoColor=white&link=https://bintern.com/en/student/public/profile/bmlrb2xhaWxpZXZza2k0MjFAZ21haWwuY29t)](https://bintern.com/en/student/public/profile/bmlrb2xhaWxpZXZza2k0MjFAZ21haWwuY29t)
 [![Nikola Ilievski's GitHub Followers](https://img.shields.io/github/followers/Biohazardx44?label=Follow&style=social)](https://github.com/Biohazardx44)
 
+---
+
 ### Languages & Technologies I use:
 
 <div>

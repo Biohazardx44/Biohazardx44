@@ -14,17 +14,11 @@ I am a passionate full-stack developer crafting user-friendly interfaces and pow
 
 ### Languages & Technologies I use:
 
-<style>
-  div a {
-    text-decoration: none;
-    margin-right: 0.5rem;
-  }
-</style>
-
 <div>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/html.svg" alt="HTML" title="HTML"/>
 	</a>
+	<img width="5" />
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/css.svg" alt="CSS" title="CSS"/>
 	</a>

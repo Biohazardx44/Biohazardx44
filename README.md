@@ -107,3 +107,5 @@ I'm a passionate full-stack developer crafting user-friendly interfaces and powe
   <img src="https://github-readme-stats.vercel.app/api?username=Biohazardx44&show_icons=true&title_color=f01818&icon_color=910a0a&text_color=c3c3c3&bg_color=202020&count_private=true" width="55%" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biohazardx44&show_icons=true&title_color=f01818&icon_color=910a0a&text_color=c3c3c3&bg_color=202020&count_private=true&layout=compact&exclude_repo=Homework-SQL" width="42%" alt="languages graph" />
 </div>
+
+<div></div>

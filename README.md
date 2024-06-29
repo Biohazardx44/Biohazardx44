@@ -37,7 +37,7 @@ I'm a full-stack developer crafting user-friendly interfaces and powerful back-e
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"/></a>
 	  <img width="10" />
-    <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
+	<a href="https://jquery.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/jquery.svg" alt="jQuery" title="jQuery"/></a>
 	  <img width="10" />
 	<a href="https://rxjs.dev/" target="_blank" rel="noopener noreferrer">
@@ -61,7 +61,7 @@ I'm a full-stack developer crafting user-friendly interfaces and powerful back-e
 	<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/tsql.ico" alt="T-SQL" title="T-SQL"/></a>
 	  <img width="10" />
-    <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/></a>
 	  <img width="10" />
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
@@ -76,7 +76,7 @@ I'm a full-stack developer crafting user-friendly interfaces and powerful back-e
 	<a href="https://swagger.io/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/swagger.svg" alt="Swagger" title="Swagger"/></a>
 	  <img width="10" />
-    <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/postman.svg" alt="Postman" title="Postman"/></a>
 	  <img width="10" />
 	<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
@@ -95,7 +95,7 @@ I'm a full-stack developer crafting user-friendly interfaces and powerful back-e
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/visualstudiocode.svg" alt="Visual Studio Code" title="Visual Studio Code"/></a>
 	  <img width="10" />
-    <a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noopener noreferrer">
+	<a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/visualstudio.svg" alt="Visual Studio" title="Visual Studio"/></a>
 	  <img width="10" />
 	<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noopener noreferrer">

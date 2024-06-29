@@ -51,6 +51,9 @@ I'm a passionate full-stack developer crafting user-friendly interfaces and powe
 	<a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/angular.svg" alt="Angular" title="Angular"/></a>
 	  <img width="10" />
+	<a href="https://docs.alfresco.com/" target="_blank" rel="noopener noreferrer">
+	  <img width="48" height="48" src="./icons/alfresco.svg" alt="Alfresco" title="Alfresco"/></a>
+	  <img width="10" />
 	<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
 	  <img width="48" height="48" src="./icons/react.svg" alt="React & React Native" title="React & React Native"/></a>
 	  <img width="10" />
